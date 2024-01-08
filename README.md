@@ -25,6 +25,6 @@ Ter o android studio ( neste projeto foi utilizado o android-studio-2020.3.1.22 
 
 ```bash
 # Exemplo de comando de instalação
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
+git clone https://github.com/AnnaKarolineNunes/listView.git
+cd listView
 ./gradlew installDebug
